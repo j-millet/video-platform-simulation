@@ -28,10 +28,12 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn clean package
-    - name: Make dir
-      run: mkdir staging && for i in target/*jar-with-dependencies.jar; do cp $i staging/VideoPlatformSimulation.jar; break; done;
+    - name: Make dirs
+      run: mkdir staging && mkdir staging/VideoPlatformSimulation
+    - name: Copy jar
+      run: for i in target/*jar-with-dependencies.jar; do cp $i staging/VideoPlatformSimulation/VideoPlatformSimulation.jar; break; done;
     - name: Copy assets
-      run: cp -r assets staging
+      run: cp -r assets staging/VideoPlatformSimulation
     - name: Upload package
       uses: actions/upload-artifact@v4
       with:
