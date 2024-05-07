@@ -1,0 +1,15 @@
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/guiMain.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/VideoRenderer.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/ObjectInfoRenderer.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/User.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/Watchable.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/Stream.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/Simulation.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/Video.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/infoPanel.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/UserRenderer.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/StreamRenderer.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/ObjectInfoRendererFactory.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/Channel.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/ObjectInfoRenderers/ChannelRenderer.java
+/home/j-millet/Desktop/VideoPlatformSimulation/src/main/java/com/jakubjagla/Simulation/SimUtils.java
