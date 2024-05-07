@@ -9,4 +9,4 @@ Each user has their own queue of videos to watch and a list of channels they are
 Download the latest release from GitHub, unpack the .zip file and in the unpacked directory execute ```java -jar VideoPlatformSimulation.jar```
 
 ## Build info
-![main build](https://github.com/j-millet/video-platform-simulation/workflows/main.yml/badge.svg)
+![Build](https://github.com/j-millet/video-platform-simulation/actions/workflows/main.yml/badge.svg)
